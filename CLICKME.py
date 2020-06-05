@@ -70,7 +70,7 @@ class HotdogGUI:
         class_i = topProbObject[0].astype('int').asscalar()
         class_label = nw.classes[class_i]
         class_prob = probability[class_i]
-        # print('#1 ', class_label, class_prob.asscalar()*100)
+        print('#1 ', class_label, class_prob.asscalar()*100)
         if class_i == 934:
             # print('hotdog')
             return 'Hotdog'
