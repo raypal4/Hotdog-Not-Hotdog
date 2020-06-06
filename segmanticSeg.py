@@ -5,7 +5,7 @@ from mxnet.gluon.data.vision import transforms
 from gluoncv.data.ade20k.segmentation import ADE20KSegmentation
 from gluoncv.utils.viz import get_color_pallete
 
-img_filepath = "stock/tennisball.jpg"
+img_filepath = "stock/imagewithstuff.jpg"
 
 image = mx.image.imread(img_filepath)
 
