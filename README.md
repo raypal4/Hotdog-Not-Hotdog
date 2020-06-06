@@ -1,3 +1,5 @@
+![Shiba](https://raw.githubusercontent.com/raypal4/Hotdog-Not-Hotdog/master/stock/dog.jpg?token=ANNNTPBPPPVG2DUFEYNNIT264S47Q)
+
 # Hotdog Not Hotdog
  Just for fun! 
  And to store my GluonCV coursera stuff...
