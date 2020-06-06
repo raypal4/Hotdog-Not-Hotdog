@@ -4,3 +4,6 @@
  
  Inspired by:
  https://www.youtube.com/watch?v=pqTntG1RXSY
+
+Need to follow this:
+https://www.makeareadme.com/
