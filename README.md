@@ -1,4 +1,4 @@
-![Shiba](https://raw.githubusercontent.com/raypal4/Hotdog-Not-Hotdog/master/stock/dog.jpg?token=ANNNTPFGONAM4J7NFFRYB2K66Q55E)
+![Shiba](https://raw.githubusercontent.com/raypal4/Hotdog-Not-Hotdog/master/stock/dog.jpg?raw=true)
 
 # Hotdog Not Hotdog
  Just for fun! 
