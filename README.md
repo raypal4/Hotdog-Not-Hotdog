@@ -1,4 +1,4 @@
-![shiba](https://raw.githubusercontent.com/raypal4/Hotdog-Not-Hotdog/master/stock/dog.jpg "Shibae")
+![alt text](https://raw.githubusercontent.com/raypal4/Hotdog-Not-Hotdog/master/stock/dog.jpg "Shibae")
 
 # Hotdog Not Hotdog
  Just for fun! 
