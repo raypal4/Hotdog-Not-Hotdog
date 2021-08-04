@@ -2,7 +2,6 @@
 
 # Hotdog Not Hotdog
  GluonCV Computer Vision Coursera Course.
- And to store my GluonCV coursera stuff...
  
  Inspired by:
  https://www.youtube.com/watch?v=pqTntG1RXSY
