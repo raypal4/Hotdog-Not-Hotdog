@@ -1,7 +1,7 @@
 ![alt text](https://github.com/raypal4/Hotdog-Not-Hotdog/blob/master/stock/dog.jpg "Shibae")
 
 # Hotdog Not Hotdog
- Just for fun! 
+ GluonCV Computer Vision Coursera Course.
  And to store my GluonCV coursera stuff...
  
  Inspired by:
