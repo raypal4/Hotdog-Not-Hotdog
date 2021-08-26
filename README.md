@@ -1,18 +1,22 @@
 ![alt text](https://github.com/raypal4/Hotdog-Not-Hotdog/blob/master/stock/dog.jpg "Shibae")
 
 # Hotdog Not Hotdog
- GluonCV Computer Vision Coursera Course.
- 
- Inspired by:
- https://www.youtube.com/watch?v=pqTntG1RXSY
+
+GluonCV Computer Vision Coursera Course.
+
+Inspired by:
+https://www.youtube.com/watch?v=pqTntG1RXSY
 
 ## Installation
+
 You will require to install the following programs using pip to run the application.
 
 ```bash
-pip install mxnet
-pip install gluoncv
+pip install pillow
+pip install --upgrade mxnet
+pip install --upgrade gluoncv
 ```
+
 I will be focusing mostly on the following libraries:
 
 ## [MXNet](https://mxnet.apache.org/)
@@ -22,6 +26,3 @@ Apache MXNet is an open-source deep learning software framework, used to train, 
 ## [GluonCV](https://gluon-cv.mxnet.io/)
 
 A Deep Learning Toolkit for Computer Vision. GluonCV provides implementations of state-of-the-art (SOTA) deep learning algorithms in computer vision. It aims to help engineers, researchers, and students quickly prototype products, validate new ideas and learn computer vision.
-
-
-
